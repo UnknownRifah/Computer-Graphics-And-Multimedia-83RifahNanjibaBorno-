@@ -34,10 +34,10 @@ Pressing the first letter of the author's name closes the window.
 - **R key** → Close the window
 
 ## Output
--An orange colored window appears
--Two cyan obtuse triangles appear at opposite corners
--Title bar shows: Rifah Nanjiba Borno
--Terminal confirms successful execution
+- An orange colored window appears
+- Two cyan obtuse triangles appear at opposite corners
+- Title bar shows: Rifah Nanjiba Borno
+- Terminal confirms successful execution
 
 ## Author
 **Rifah Nanjiba Borno**
